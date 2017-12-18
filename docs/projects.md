@@ -8,7 +8,7 @@ Fun games to build with your @boardname@.
 
 ```codecard
 [{
-  "name": "Flashing Heart",
+  "name": "Flashing Heartx",
   "url":"/projects/flashing-heart",
   "imageUrl": "/static/mb/projects/a1-display.png",
   "cardType": "tutorial"
