@@ -4,7 +4,7 @@
 
 ### ~avatar avatar
 
-Make a watch for your @boardname@
+Der Bewegungsmelder @boardname@
 
 ### ~
 
