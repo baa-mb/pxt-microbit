@@ -5,6 +5,7 @@ The [Egg and Spoon](https://en.wikipedia.org/wiki/Egg-and-spoon_race) race is a 
 You can program your @boardname@ to be an egg and let your hand be the spoon. If you walk too fast or waver in holding the @boardname@, you might "drop the egg!". Try to keep the balance point in the center of the screen.
 
 ```blocks
+
 let accY = 0
 let accX = 0
 let y = 0
